@@ -1,0 +1,1135 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/sml/ontologies/2018/2/untitled-ontology-19"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/sml/ontologies/2018/2/untitled-ontology-19">
+    <Prefix name="" IRI="http://www.semanticweb.org/sml/ontologies/2018/2/untitled-ontology-19"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Annotation>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The environment or community concerned with the pursuit of research, education, and scholarship.</Literal>
+    </Annotation>
+    <Declaration>
+        <NamedIndividual IRI="/University-Nazia0000063"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000038"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000006"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000018"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000066"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000034"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000046"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000014"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000030"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000042"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/University-Nazia0000076"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000010"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000054"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000082"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000050"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000090"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/University-Nazia0000074"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000009"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/University-Nazia0000060"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/University-Nazia0000080"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000037"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000049"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000017"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000029"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000033"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000045"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/University-Nazia0000071"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000013"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000041"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000085"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000053"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000065"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/University-Nazia0000067"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000093"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/University-Nazia0000073"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000008"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/University-Nazia0000061"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000048"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000016"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000028"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000044"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000088"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000012"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/University-Nazia0000070"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="/University-Nazia0000091"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000036"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000040"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000052"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000064"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000020"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000032"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/University-Nazia0000072"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/University-Nazia0000078"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/University-Nazia0000062"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000019"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000015"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000027"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000039"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000007"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000011"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000035"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000047"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000051"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000031"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000087"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000043"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/University-Nazia0000077"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/University-Nazia0000083"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/University-Nazia0000079"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000006"/>
+        <Class IRI="/University-Nazia0000093"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000007"/>
+        <Class IRI="/University-Nazia0000093"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000008"/>
+        <Class IRI="/University-Nazia0000093"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000009"/>
+        <Class IRI="/University-Nazia0000093"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000010"/>
+        <Class IRI="/University-Nazia0000009"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000011"/>
+        <Class IRI="/University-Nazia0000009"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000012"/>
+        <Class IRI="/University-Nazia0000009"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000013"/>
+        <Class IRI="/University-Nazia0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000014"/>
+        <Class IRI="/University-Nazia0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000015"/>
+        <Class IRI="/University-Nazia0000012"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000016"/>
+        <Class IRI="/University-Nazia0000011"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000017"/>
+        <Class IRI="/University-Nazia0000010"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000018"/>
+        <Class IRI="/University-Nazia0000007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000019"/>
+        <Class IRI="/University-Nazia0000007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000020"/>
+        <Class IRI="/University-Nazia0000007"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000027"/>
+        <Class IRI="/University-Nazia0000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000028"/>
+        <Class IRI="/University-Nazia0000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000029"/>
+        <Class IRI="/University-Nazia0000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000030"/>
+        <Class IRI="/University-Nazia0000008"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000031"/>
+        <Class IRI="/University-Nazia0000027"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000032"/>
+        <Class IRI="/University-Nazia0000027"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000033"/>
+        <Class IRI="/University-Nazia0000030"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000034"/>
+        <Class IRI="/University-Nazia0000030"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000035"/>
+        <Class IRI="/University-Nazia0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000036"/>
+        <Class IRI="/University-Nazia0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000037"/>
+        <Class IRI="/University-Nazia0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000038"/>
+        <Class IRI="/University-Nazia0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000039"/>
+        <Class IRI="/University-Nazia0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000040"/>
+        <Class IRI="/University-Nazia0000029"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000041"/>
+        <Class IRI="/University-Nazia0000028"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000042"/>
+        <Class IRI="/University-Nazia0000028"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000043"/>
+        <Class IRI="/University-Nazia0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000044"/>
+        <Class IRI="/University-Nazia0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000045"/>
+        <Class IRI="/University-Nazia0000006"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000046"/>
+        <Class IRI="/University-Nazia0000014"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000047"/>
+        <Class IRI="/University-Nazia0000046"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000048"/>
+        <Class IRI="/University-Nazia0000013"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000049"/>
+        <Class IRI="/University-Nazia0000016"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000050"/>
+        <Class IRI="/University-Nazia0000013"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000051"/>
+        <Class IRI="/University-Nazia0000015"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000052"/>
+        <Class IRI="/University-Nazia0000051"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000053"/>
+        <Class IRI="/University-Nazia0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000054"/>
+        <Class IRI="/University-Nazia0000020"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000064"/>
+        <Class IRI="/University-Nazia0000052"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000065"/>
+        <Class IRI="/University-Nazia0000064"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000066"/>
+        <Class IRI="/University-Nazia0000064"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000082"/>
+        <Class IRI="/University-Nazia0000009"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000083"/>
+        <Class IRI="/University-Nazia0000082"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000085"/>
+        <Class IRI="/University-Nazia0000093"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000087"/>
+        <Class IRI="/University-Nazia0000093"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000088"/>
+        <Class IRI="/University-Nazia0000087"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/University-Nazia0000090"/>
+        <Class IRI="/University-Nazia0000093"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000006"/>
+        <Class IRI="/University-Nazia0000007"/>
+        <Class IRI="/University-Nazia0000008"/>
+        <Class IRI="/University-Nazia0000009"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000010"/>
+        <Class IRI="/University-Nazia0000011"/>
+        <Class IRI="/University-Nazia0000012"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000013"/>
+        <Class IRI="/University-Nazia0000014"/>
+        <Class IRI="/University-Nazia0000015"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000018"/>
+        <Class IRI="/University-Nazia0000019"/>
+        <Class IRI="/University-Nazia0000020"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000027"/>
+        <Class IRI="/University-Nazia0000028"/>
+        <Class IRI="/University-Nazia0000029"/>
+        <Class IRI="/University-Nazia0000030"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000031"/>
+        <Class IRI="/University-Nazia0000032"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000033"/>
+        <Class IRI="/University-Nazia0000034"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000035"/>
+        <Class IRI="/University-Nazia0000036"/>
+        <Class IRI="/University-Nazia0000037"/>
+        <Class IRI="/University-Nazia0000038"/>
+        <Class IRI="/University-Nazia0000039"/>
+        <Class IRI="/University-Nazia0000040"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000041"/>
+        <Class IRI="/University-Nazia0000042"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000043"/>
+        <Class IRI="/University-Nazia0000044"/>
+        <Class IRI="/University-Nazia0000045"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/University-Nazia0000065"/>
+        <Class IRI="/University-Nazia0000066"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="/University-Nazia0000018"/>
+        <NamedIndividual IRI="/University-Nazia0000063"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="/University-Nazia0000054"/>
+        <NamedIndividual IRI="/University-Nazia0000063"/>
+    </ClassAssertion>
+    <SameIndividual>
+        <NamedIndividual IRI="/University-Nazia0000061"/>
+        <NamedIndividual IRI="/University-Nazia0000063"/>
+    </SameIndividual>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/University-Nazia0000077"/>
+        <NamedIndividual IRI="/University-Nazia0000060"/>
+        <NamedIndividual IRI="/University-Nazia0000079"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/University-Nazia0000067"/>
+        <NamedIndividual IRI="/University-Nazia0000061"/>
+        <NamedIndividual IRI="/University-Nazia0000080"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/University-Nazia0000071"/>
+        <NamedIndividual IRI="/University-Nazia0000062"/>
+        <NamedIndividual IRI="/University-Nazia0000078"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="/University-Nazia0000067"/>
+        <NamedIndividual IRI="/University-Nazia0000080"/>
+        <NamedIndividual IRI="/University-Nazia0000080"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="/University-Nazia0000073"/>
+        <NamedIndividual IRI="/University-Nazia0000063"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">CS101</Literal>
+    </DataPropertyAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/University-Nazia0000067"/>
+        <Class IRI="/University-Nazia0000020"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/University-Nazia0000071"/>
+        <Class IRI="/University-Nazia0000008"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/University-Nazia0000076"/>
+        <Class IRI="/University-Nazia0000012"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/University-Nazia0000077"/>
+        <Class IRI="/University-Nazia0000028"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/University-Nazia0000067"/>
+        <Class IRI="/University-Nazia0000014"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/University-Nazia0000071"/>
+        <Class IRI="/University-Nazia0000014"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/University-Nazia0000076"/>
+        <Class IRI="/University-Nazia0000009"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/University-Nazia0000077"/>
+        <Class IRI="/University-Nazia0000006"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="/University-Nazia0000074"/>
+        <Class IRI="/University-Nazia0000008"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="/University-Nazia0000074"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000001</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Definitions</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000006</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The act or process of producing a book, magazine, etc., and making it available to the public</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000006</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Publication</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000007</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">learners</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000007</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Students</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000008</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Person who is working for the organization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000008</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Employees</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000009</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Place where you learn and earn a qualification or degree</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000009</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">University</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000010</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Campus located in Truro city</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000010</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Truro Campus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000011</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Campus located in sydney city</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000011</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Sydney Campus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000012</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">located in halifax</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000012</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Halifax Campus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000013</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">School ofLaw</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000014</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Departments offering business related courses</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000014</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">School ofBusiness</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000015</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Department responsible for offering computers and technology related courses</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000015</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">School ofComputer Science</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000016</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">School of Health Sciences</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000017</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Department offering agricultural studies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000017</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">School of Agriculture</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000018</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">online learning</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000018</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Distance Learning</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000019</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">An undergraduate degree is usually your first university degree, such as an Associate or Bachelor&apos;s degree</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000019</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Undergraduate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000020</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A school that awards advanced academic degrees (i.e. master&apos;s and doctoral degrees) with the general requirement that students must have earned a previous undergraduate (bachelor&apos;s) degree with a high grade point average.</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000020</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Graduate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000027</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Personel who performs routine clerical or maintainence tasks</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000027</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Administrative Staff</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000028</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Helpers in perfoming a task</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000028</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Assistant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000029</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">entire teaching Group</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000029</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Teaching Faculty</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000030</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Executive management, or a management team is generally a team of individuals at the highest level of management of an organization</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000030</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Senior Management</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000091"/>
+        <IRI>/University-Nazia0000031</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Similar to office assistant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000031</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Clerical Staff</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>/University-Nazia0000032</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Staff responsible for cleaning and technical repairs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000032</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Systems and Maintainence</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000033</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">The head of a college or university faculty</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000033</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Dean</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000034</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Person who leads or supervises a program</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000034</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Director</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000035</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">individual who teach</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000035</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Lecturer</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000036</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Professor who is not permanent staff and is outsourced</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000036</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Visiting Professor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000037</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A facilitator or Teacher of the highest rank in the teaching Faculty</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000037</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Permanent Full Professor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000038</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A University Facilitator who teaches the course but is ranked below a Full Professor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000038</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Associate Professor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000039</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">eprson who assist professor in delievring lectures</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000039</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Assistant Professor</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000040</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Person who holds a docterate designation</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000040</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Post Doc</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000041</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Someone who provide aid to the teacher and student</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000041</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">TeachingAssistant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000042</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Helpers in performing research</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000042</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ResearchAssistant</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000043</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">BookArticle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000044</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">ConferenceArticle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000045</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">JournalArticle</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000091"/>
+        <IRI>/University-Nazia0000046</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">course</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000046</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Program</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000091"/>
+        <IRI>/University-Nazia0000047</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">A post grad degree</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000047</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Masters In information Management</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000048</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">LLM</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000049</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Bachelors in Nursing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000050</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Law and Technology</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000051</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Program</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000052</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Masters in Electronic Commerce</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000053</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Fall intake 2017</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000054</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Winter intake 2018</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000060</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Mona-03</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000061</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Steve-02</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000062</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">David-01</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000063</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Tom-05</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000064</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Course</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000065</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Data Science</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000066</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Database</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000067</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">officially registerd</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000067</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Enrolled</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000070</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">in process to be accepted</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000070</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Wait-listed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000071</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Facilitates</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000071</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Teaches</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000072</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Staff_id</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000073</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Student_id</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000074</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">name</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000076</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">belongs to</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000076</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">part of</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000077</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Prepared and issueed to public</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000077</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">publish</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000078</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Data Science</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000079</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Health-Publication</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000080</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Summer courses</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000082</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Campus located in sexton city</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000082</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Sexton Campus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000083</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Engimeeriing school</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000085</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Updated information on current affairs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000085</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">news and events</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000087</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Place to look for books magazine and study</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000087</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Libraries</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000088</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">located on university avenue</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000088</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Killam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000090</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">deals with money matters</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000090</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Fianace Matters</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000091</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">synonm</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="/University-Nazia0000001"/>
+        <IRI>/University-Nazia0000093</IRI>
+        <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">the environment or community concerned with the pursuit of research, education, and scholarship</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>/University-Nazia0000093</IRI>
+        <Literal xml:lang="en" datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">Academia</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
